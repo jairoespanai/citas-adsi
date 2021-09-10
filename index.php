@@ -20,7 +20,7 @@
             <div class="col-lg-4">
                 <div class="card">
                     <form action="<?php echo $GLOBALS["UrlWebHttp"] ?>Controllers/Proxy.php?c=Consultorios&a=listar" method="POST">
-                        <div class="card-header bg-success text-white text-center">Inicio de Sesion</div>
+                        <div class="card-header bg-success text-white text-center">Inicio de Sesion 2</div>
                         <div class="card-body">
 
                             <label>Usuario</label><br/>
